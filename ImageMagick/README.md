@@ -17,4 +17,4 @@
 
 http://www.imagemagick.org/Usage/crop/#splice
 
-`convert in.jpg -background grey -splice 10x0 -gravity east out.jpg`
+`convert in.jpg -gravity east -background grey -splice 10x0 out.jpg`
